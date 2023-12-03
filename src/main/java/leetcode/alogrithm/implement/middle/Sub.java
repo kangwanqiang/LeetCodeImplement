@@ -1,4 +1,7 @@
-package leetcode.alogrithm.implement.middle;
+package main.java.leetcode.alogrithm.implement.middle;
+
+import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * @author kangwanqiang
